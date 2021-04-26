@@ -112,6 +112,7 @@ celerybeat.pid
 # Environments
 # .env
 .env/
+local.env
 .venv/
 env/
 venv/
@@ -151,7 +152,7 @@ Thumbs.db
 .prof
 
 # text data
-.txt
+*.txt
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python
